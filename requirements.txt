@@ -1,0 +1,11 @@
+behave==1.2.6
+colorama==0.4.6
+exceptiongroup==1.2.2
+iniconfig==2.0.0
+packaging==24.1
+parse==1.20.2
+parse_type==0.6.4
+pluggy==1.5.0
+pytest==8.3.2
+six==1.17.0
+tomli==2.0.1

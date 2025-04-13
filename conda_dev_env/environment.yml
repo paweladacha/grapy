@@ -1,0 +1,4 @@
+name: grapy
+channels:
+  - conda-forge
+  - defaults
