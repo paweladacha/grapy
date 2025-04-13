@@ -1,3 +1,9 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore a specific directory
+tests/__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
